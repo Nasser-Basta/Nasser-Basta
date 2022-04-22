@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasser-basta" alt="nasser-basta" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/blaster0806" target="blank"><img src="https://img.shields.io/twitter/follow/blaster0806?logo=twitter&style=for-the-badge" alt="blaster0806" /></a> </p>
-
 - 🔭 I’m currently working on **an AI based mobile app**
 
 - 🌱 I’m currently learning **RedwoodJS, competitive programming, Flutter**
@@ -28,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/blaster0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blaster0806" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nasser-basta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nasser-basta" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14803987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14803987" height="30" width="40" /></a>
 <a href="https://instagram.com/nasser_basta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasser_basta" height="30" width="40" /></a>
 </p>
 
@@ -38,8 +36,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bastanasser"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bastanasser" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasser-basta&show_icons=true&locale=en&layout=compact" alt="nasser-basta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasser-basta&show_icons=true&theme=dark&locale=en&layout=compact" alt="nasser-basta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasser-basta&show_icons=true&locale=en" alt="nasser-basta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasser-basta&show_icons=true&theme=dark&locale=en" alt="nasser-basta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasser-basta&" alt="nasser-basta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasser-basta&theme=dark" alt="nasser-basta" /></p>
+
